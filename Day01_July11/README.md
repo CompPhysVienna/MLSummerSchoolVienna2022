@@ -12,9 +12,18 @@ In this session, you will learn the following:
 
 All code for these sessions is contained in standalone jupyter notebooks, which can run on google colab:
 
-- [Notebook 1: Scikit learn](https://colab.research.google.com/github/MScherbela/jax_tutorial/blob/master/01_ml_basics_sklearn.ipynb)
-- [Notebook 2: Basics of JAX](https://colab.research.google.com/github/MScherbela/jax_tutorial/blob/master/02_jax_basics.ipynb) 
-- [Notebook 3: Neural Net from scratch](https://colab.research.google.com/github/MScherbela/jax_tutorial/blob/master/03_neural_net_from_scratch.ipynb) 
-- [Notebook 4: JAX libraries](https://colab.research.google.com/github/MScherbela/jax_tutorial/blob/master/04_neural_net_using_libraries.ipynb) 
+- [Notebook 1: Scikit learn](https://github.com/CompPhysVienna/MLSummerSchoolVienna2022/blob/main/Day01_July11/01_ml_basics_sklearn.ipynb)
+- [Notebook 2: Basics of JAX](https://github.com/CompPhysVienna/MLSummerSchoolVienna2022/blob/main/Day01_July11/02_jax_basics.ipynb) 
+- [Notebook 3: Neural Net from scratch](https://github.com/CompPhysVienna/MLSummerSchoolVienna2022/blob/main/Day01_July11/03_neural_net_from_scratch.ipynb) 
+- [Notebook 4: JAX libraries](https://github.com/CompPhysVienna/MLSummerSchoolVienna2022/blob/main/Day01_July11/04_neural_net_using_libraries.ipynb)
+
+
+UPDATE
+------
+
+The scripts which were built live during the tutorials on July 11, can be found here:
+https://github.com/CompPhysVienna/MLSummerSchoolVienna2022/tree/main/Day01_July11/data
+
+
 
 
