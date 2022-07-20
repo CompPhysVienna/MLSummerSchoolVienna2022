@@ -1,7 +1,7 @@
-#  **Enhanced sampling and free energy**
-### Luigi Bonati$\tiny{\dagger}$, Enrico Trizio$\tiny{\dagger \ddagger}$
-##### $\dagger$ Italian Institute of Technology - IIT, $\ddagger$ University of Milano-Bicocca - UNIMIB
-##### **Mail**: luigi.bonati@iit.it, enrico.trizio@iit.it $\,\cdot\,$ **Twitter**: `@GroupParrinello`, `@LuigiBonati`, `@TrizioEnrico` 
+#  **Free Energies and Enhanced Sampling**
+### Luigi Bonati$^1$, Enrico Trizio$^{1,2}$
+##### $^1$ Italian Institute of Technology - IIT, $^{1,2}$ University of Milano-Bicocca - UNIMIB
+##### **Mail**: {luigi.bonati,enrico.trizio}[at]iit.it **Twitter**: `@LuigiBonati`, `@TrizioEnrico` (+ `@GroupParrinello`)
 
 ---
 
